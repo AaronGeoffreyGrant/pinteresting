@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+This is an application that I am working on to make my website more interactive.
+[*Interactive-Artwork*](http://interactive-artwork.com)
 
-by [Mattan Griffel](http://mattangriffel.com)
+by [Aaron G. Grant](http://mattangriffel.com)
